@@ -1,0 +1,30 @@
+#search {
+    padding: 0px;
+    display: block;
+    margin: 30px auto;
+    height: 35px;
+    width: 35%;
+    padding: none;
+    border: .5px solid #dbdbdb;
+    border-radius: 5px;
+    box-shadow: 0px 0px 3px .2px #bfbfbf;
+    padding: 0px 10px;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 200px);
+    justify-content: center;
+    width: 65%;
+    margin: auto;
+    grid-gap: 12px; 
+      
+}
+
+
+a {
+    padding: 0;
+    width: 200px;
+    margin: auto;
+}
+
