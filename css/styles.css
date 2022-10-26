@@ -4,7 +4,6 @@
     margin: 30px auto;
     height: 35px;
     width: 35%;
-    padding: none;
     border: .5px solid #dbdbdb;
     border-radius: 5px;
     box-shadow: 0px 0px 3px .2px #bfbfbf;
@@ -17,14 +16,11 @@
     justify-content: center;
     width: 65%;
     margin: auto;
-    grid-gap: 12px; 
+    grid-gap: 18px; 
       
 }
 
-
 a {
-    padding: 0;
     width: 200px;
-    margin: auto;
 }
 
