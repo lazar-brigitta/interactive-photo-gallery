@@ -14,10 +14,9 @@
     display: grid;
     grid-template-columns: repeat(auto-fit, 200px);
     justify-content: center;
-    width: 65%;
+    width: 90%;
     margin: auto;
-    grid-gap: 18px; 
-      
+    grid-gap: 18px;     
 }
 
 a {
